@@ -1,0 +1,3 @@
+excl=0;/home/ec2-user/hexxit_mini/mods/resources/ruins/ocean/PirateShip.tml
+excl=0;/home/ec2-user/hexxit_mini/mods/resources/ruins/ocean/SkyCastle.tml
+excl=45;/home/ec2-user/hexxit_mini/mods/resources/ruins/mountainous desert/TallTower.tml
