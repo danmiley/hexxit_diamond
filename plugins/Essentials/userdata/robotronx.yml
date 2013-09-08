@@ -1,22 +1,22 @@
 timestamps:
-  login: 1378352751152
-  lastteleport: 1378159829287
-  logout: 1378354377169
+  login: 1378661357990
+  lastteleport: 1378661462376
+  logout: 1378655711364
 ipAddress: 98.207.152.213
 lastlocation:
   world: world
-  x: 823.5481297145029
-  y: 42.029463287849836
-  z: 556.3100450604688
-  yaw: 66.717285
-  pitch: 7.3499856
+  x: -183.69585802896808
+  y: 72.0
+  z: 680.675265172175
+  yaw: -90.59863
+  pitch: 10.050014
 logoutlocation:
   world: world
-  x: 43.29986678345751
-  y: 63.0
-  z: 199.47061797366476
-  yaw: -193.41132
-  pitch: 14.496993
+  x: -257.4750778020082
+  y: 69.0
+  z: 663.3201176689606
+  yaw: -332.9988
+  pitch: -90.0
 mail:
 - 'Server: now have cheats activated on JMDiamondFest'
 nickname: scavenger
