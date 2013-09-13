@@ -1,1 +1,3 @@
 excl=0;/home/ec2-user/mc/hexxit_diamond/mods/resources/ruins/ocean/SkyCastle.tml
+excl=2;/home/ec2-user/mc/hexxit_diamond/mods/resources/ruins/desert/TallTower.tml
+excl=2;/home/ec2-user/mc/hexxit_diamond/mods/resources/ruins/desert/Beacon.tml

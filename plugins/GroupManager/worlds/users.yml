@@ -4,6 +4,11 @@ users:
     subgroups: []
     permissions:
     - groupmanager.noofflineperms
+  warrior622:
+    group: Builder
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
   lite_blu_shadow:
     group: Builder
     subgroups: []
