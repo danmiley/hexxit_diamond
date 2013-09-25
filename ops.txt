@@ -1,4 +1,6 @@
 buildcraft
 lite_blu_shadow
+oliverpaloverde
 [buildcraft]
+boomshockalaka
 robotronx
