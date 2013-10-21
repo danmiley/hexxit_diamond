@@ -1,4 +1,9 @@
 users:
+  Aprimo870:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
   blazeball137:
     group: Moderator
     subgroups: []
@@ -66,6 +71,11 @@ users:
     - groupmanager.noofflineperms
   soccerrocket1:
     group: Builder
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  warrior622:
+    group: Moderator
     subgroups: []
     permissions:
     - groupmanager.noofflineperms

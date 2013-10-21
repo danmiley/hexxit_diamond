@@ -1,19 +1,20 @@
 timestamps:
-  login: 1379870504687
-  logout: 1379871844622
-  lastteleport: 1379863493539
-ipAddress: 76.21.119.30
+  login: 1381363948558
+  logout: 1381363971067
+  lastteleport: 1380492132151
+ipAddress: 67.180.74.58
 logoutlocation:
   world: world
-  x: -42.76962010610097
-  y: 64.49240004672032
-  z: 585.0009587413768
-  yaw: -280.19232
-  pitch: 49.35
+  x: -129.5
+  y: 63.0
+  z: 251.5
+  yaw: -7.4999995
+  pitch: 44.4
 lastlocation:
-  world: deadwood
-  x: 312.3610281051962
-  y: 73.0
-  z: 420.0012992906066
-  yaw: 91.35002
-  pitch: 11.250001
+  world: world
+  x: -129.5
+  y: 63.0
+  z: 251.5
+  yaw: -7.4999995
+  pitch: 44.4
+afk: false

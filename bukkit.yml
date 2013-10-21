@@ -79,6 +79,89 @@ mcpc:
     world_nether: dim-1
     world_the_end: dim1
     world_twilightforest: dim7
+  loglevels:
+    Minecraft-Server: INFO
+    MinecraftForge: INFO
+    ForgeModLoader: INFO
+    DamageIndicatorsMod: INFO
+    eplus: INFO
+    mcp: INFO
+    FML: INFO
+    Forge: INFO
+    CoFHFramework: INFO
+    CodeChickenCore: INFO
+    NotEnoughItems: INFO
+    ImmibisMicroblocks: INFO
+    CoFHCore: INFO
+    CoFHWorld: INFO
+    TreeCapitator: INFO
+    ImmibisMicroblocksInstallCheck: INFO
+    ASAddon_Hallowed: INFO
+    ASAddon_HarkenScythe: INFO
+    ASAddon_NetherEnder: INFO
+    ASAddon_ColorAPI: INFO
+    AsgardShield_Core: INFO
+    HarkenScythe_Core: INFO
+    Artifice: INFO
+    ArtificeCompat|Chisel: INFO
+    ArtificeCompat|EE3: INFO
+    ArtificeCompat|Forestry: INFO
+    ArtificeCompat|MFR: INFO
+    ArtificeCompat|Railcraft: INFO
+    ArtificeCompat|Vanilla: INFO
+    BattleTowers: INFO
+    BetterDungeons: INFO
+    BiblioCraft: INFO
+    DimDoors: INFO
+    ExtrabiomesXL: INFO
+    hexxitgear: INFO
+    InfernalMobs: INFO
+    Meteors: INFO
+    More Bows: INFO
+    LegendGear: INFO
+    Natura: INFO
+    Natura|CompatMineFactoryReloaded: INFO
+    OffLawn: INFO
+    ProjectZulu|Blocks: INFO
+    ProjectZulu|Core: INFO
+    ProjectZulu|Dungeon: INFO
+    ProjectZulu|Mobs: INFO
+    ProjectZulu|World: INFO
+    xreliquary: INFO
+    rftl: INFO
+    AS_Ruins: INFO
+    secretroomsmod: INFO
+    SoulShards: INFO
+    TConstruct|CompatMineFactoryReloaded: INFO
+    TConstruct: INFO
+    WildCaves3: INFO
+    BetterStorage: INFO
+    mod_bspkrsCore: INFO
+    Backpack: INFO
+    ChestTransporter: INFO
+    ImmibisCore: INFO
+    ObsidiPlates: INFO
+    TwilightForest: INFO
+    chococraft: INFO
+    bspkrsCore: INFO
+    fml-ItemTracker: INFO
+    Minecraft: INFO
+    org-kitteh-enchant-Tim: INFO
+    org-anjocaido-groupmanager-GroupManager: INFO
+    com-sk89q-worldedit-bukkit-WorldEditPlugin: INFO
+    de-FelixSupermann-RamChecker-RamChecker: INFO
+    org-yi-acru-bukkit-Lockette-Lockette: INFO
+    com-onarandombox-MultiverseCore-MultiverseCore: INFO
+    com-sk89q-worldguard-bukkit-WorldGuardPlugin: INFO
+    com-earth2me-essentials-Essentials: INFO
+    com-earth2me-essentials-protect-EssentialsProtect: INFO
+    com-earth2me-essentials-spawn-EssentialsSpawn: INFO
+    com-onarandombox-MultiversePortals-MultiversePortals: INFO
+    com-earth2me-essentials-chat-EssentialsChat: INFO
+    com-earth2me-essentials-antibuild-EssentialsAntiBuild: INFO
+    fml-ModTracker: INFO
+    com-sk89q-wepif-PermissionsResolverManager: INFO
+    Minecraft-WorldEdit: INFO
 world-settings:
   default:
     growth-chunks-per-tick: 650

@@ -1,6 +1,8 @@
 buildcraft
+warrior622
 lite_blu_shadow
 oliverpaloverde
+aprimo870
 [buildcraft]
-boomshockalaka
 robotronx
+boomshockalaka
